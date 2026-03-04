@@ -1,6 +1,12 @@
 # Chennai Store Distribution Analyzer
 
-Fetches commercial establishments from the Google Maps Places API for Chennai neighborhoods, categorizes them, and produces distribution analytics with interactive visualizations (heatmaps, DBSCAN cluster maps).
+> **Work in progress**
+
+## Hypothesis
+
+Chennai neighborhoods are disproportionately saturated with restaurants and food outlets, followed by clothing and shopping stores, far outweighing other commercial categories. This tool was built to test that assumption with real data from Google Maps.
+
+Early results across 5 neighborhoods (6,500+ places) show Food & Dining leading, but the gap to other categories like Health and Clothing is narrower than expected — more analysis to come.
 
 **[Live Demo](https://ashutosh-fyi.github.io/maps-analyser/)**
 
