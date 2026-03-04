@@ -1,0 +1,40 @@
+neighborhoods:
+  t_nagar:
+    display_name: "T. Nagar"
+    bbox:
+      south: 13.030
+      north: 13.050
+      west: 80.220
+      east: 80.245
+
+  anna_nagar:
+    display_name: "Anna Nagar"
+    bbox:
+      south: 13.075
+      north: 13.100
+      west: 80.190
+      east: 80.220
+
+  adyar:
+    display_name: "Adyar"
+    bbox:
+      south: 12.990
+      north: 13.012
+      west: 80.240
+      east: 80.260
+
+  guduvanchery:
+    display_name: "Guduvanchery"
+    bbox:
+      south: 12.830
+      north: 12.855
+      west: 80.050
+      east: 80.080
+
+  urapakkam:
+    display_name: "Urapakkam"
+    bbox:
+      south: 12.840
+      north: 12.865
+      west: 80.080
+      east: 80.110

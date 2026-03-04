@@ -1,0 +1,104 @@
+type_groups:
+  food_and_dining:
+    display_name: "Food & Dining"
+    types:
+      - restaurant
+      - cafe
+      - bakery
+      - fast_food_restaurant
+      - meal_delivery
+      - meal_takeaway
+      - coffee_shop
+      - ice_cream_shop
+      - pizza_restaurant
+      - sandwich_shop
+      - steak_house
+      - sushi_restaurant
+      - seafood_restaurant
+      - barbecue_restaurant
+      - breakfast_restaurant
+      - brunch_restaurant
+      - chinese_restaurant
+      - indian_restaurant
+      - indonesian_restaurant
+      - italian_restaurant
+      - japanese_restaurant
+      - korean_restaurant
+      - mediterranean_restaurant
+      - mexican_restaurant
+      - middle_eastern_restaurant
+      - thai_restaurant
+      - turkish_restaurant
+      - vegan_restaurant
+      - vegetarian_restaurant
+      - vietnamese_restaurant
+
+  grocery_and_supermarket:
+    display_name: "Grocery & Supermarket"
+    types:
+      - grocery_store
+      - supermarket
+      - convenience_store
+      - wholesaler
+
+  clothing_and_fashion:
+    display_name: "Clothing & Fashion"
+    types:
+      - clothing_store
+      - shoe_store
+      - jewelry_store
+
+  health_and_medical:
+    display_name: "Health & Medical"
+    types:
+      - pharmacy
+      - hospital
+      - doctor
+      - dentist
+      - physiotherapist
+
+  beauty_and_personal_care:
+    display_name: "Beauty & Personal Care"
+    types:
+      - beauty_salon
+      - hair_salon
+      - spa
+      - barber_shop
+      - hair_care
+
+  electronics_and_tech:
+    display_name: "Electronics & Tech"
+    types:
+      - electronics_store
+      - cell_phone_store
+
+  finance:
+    display_name: "Finance"
+    types:
+      - bank
+      - atm
+
+  home_and_hardware:
+    display_name: "Home & Hardware"
+    types:
+      - hardware_store
+      - furniture_store
+      - home_goods_store
+      - home_improvement_store
+
+  education:
+    display_name: "Education"
+    types:
+      - school
+      - university
+      - library
+
+  automotive:
+    display_name: "Automotive"
+    types:
+      - car_dealer
+      - car_repair
+      - car_wash
+      - gas_station
+
+# Reverse lookup: Google type → internal category (built at load time)
